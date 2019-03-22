@@ -1,0 +1,11 @@
+10 10
+***XXXX***
+**X***XXXX
+XXX***TXXX
+**XX***XXX
+SXX**X*XXX
+*XXX*XXXXX
+**X***XXX*
+*****X****
+XXX***XXXX
+XXXXXXXXXX
